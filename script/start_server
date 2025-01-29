@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo docker run --name docker-nginx-container -d -p 80:80 ngnix
